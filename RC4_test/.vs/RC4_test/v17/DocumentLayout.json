@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cryp Theory\\RC4_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42BA0AD3-296D-4D5D-9CC9-8C26A61F7BDD}|RC4_test.vcxproj|D:\\Cryp Theory\\RC4_test\\RC4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42BA0AD3-296D-4D5D-9CC9-8C26A61F7BDD}|RC4_test.vcxproj|solutionrelative:RC4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BA0AD3-296D-4D5D-9CC9-8C26A61F7BDD}|RC4_test.vcxproj|D:\\Cryp Theory\\RC4_test\\read_test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42BA0AD3-296D-4D5D-9CC9-8C26A61F7BDD}|RC4_test.vcxproj|solutionrelative:read_test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BA0AD3-296D-4D5D-9CC9-8C26A61F7BDD}|RC4_test.vcxproj|D:\\Cryp Theory\\RC4_test\\read_test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42BA0AD3-296D-4D5D-9CC9-8C26A61F7BDD}|RC4_test.vcxproj|solutionrelative:read_test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BA0AD3-296D-4D5D-9CC9-8C26A61F7BDD}|RC4_test.vcxproj|D:\\Cryp Theory\\RC4_test\\user.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42BA0AD3-296D-4D5D-9CC9-8C26A61F7BDD}|RC4_test.vcxproj|solutionrelative:user.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BA0AD3-296D-4D5D-9CC9-8C26A61F7BDD}|RC4_test.vcxproj|D:\\Cryp Theory\\RC4_test\\user.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42BA0AD3-296D-4D5D-9CC9-8C26A61F7BDD}|RC4_test.vcxproj|solutionrelative:user.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BA0AD3-296D-4D5D-9CC9-8C26A61F7BDD}|RC4_test.vcxproj|D:\\Cryp Theory\\RC4_test\\RC4_encrypt_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42BA0AD3-296D-4D5D-9CC9-8C26A61F7BDD}|RC4_test.vcxproj|solutionrelative:RC4_encrypt_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BA0AD3-296D-4D5D-9CC9-8C26A61F7BDD}|RC4_test.vcxproj|D:\\Cryp Theory\\RC4_test\\RC4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42BA0AD3-296D-4D5D-9CC9-8C26A61F7BDD}|RC4_test.vcxproj|solutionrelative:RC4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BA0AD3-296D-4D5D-9CC9-8C26A61F7BDD}|RC4_test.vcxproj|D:\\Cryp Theory\\RC4_test\\Test_vector.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{42BA0AD3-296D-4D5D-9CC9-8C26A61F7BDD}|RC4_test.vcxproj|solutionrelative:Test_vector.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Test_vector.txt",
+              "DocumentMoniker": "D:\\Cryp Theory\\RC4_test\\Test_vector.txt",
+              "RelativeDocumentMoniker": "Test_vector.txt",
+              "ToolTip": "D:\\Cryp Theory\\RC4_test\\Test_vector.txt",
+              "RelativeToolTip": "Test_vector.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-17T01:02:44.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "user.h",
+              "DocumentMoniker": "D:\\Cryp Theory\\RC4_test\\user.h",
+              "RelativeDocumentMoniker": "user.h",
+              "ToolTip": "D:\\Cryp Theory\\RC4_test\\user.h",
+              "RelativeToolTip": "user.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-17T11:04:20.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "user.c",
+              "DocumentMoniker": "D:\\Cryp Theory\\RC4_test\\user.c",
+              "RelativeDocumentMoniker": "user.c",
+              "ToolTip": "D:\\Cryp Theory\\RC4_test\\user.c",
+              "RelativeToolTip": "user.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-17T13:26:09.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "read_test.h",
+              "DocumentMoniker": "D:\\Cryp Theory\\RC4_test\\read_test.h",
+              "RelativeDocumentMoniker": "read_test.h",
+              "ToolTip": "D:\\Cryp Theory\\RC4_test\\read_test.h",
+              "RelativeToolTip": "read_test.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-17T00:21:50.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "read_test.c",
+              "DocumentMoniker": "D:\\Cryp Theory\\RC4_test\\read_test.c",
+              "RelativeDocumentMoniker": "read_test.c",
+              "ToolTip": "D:\\Cryp Theory\\RC4_test\\read_test.c",
+              "RelativeToolTip": "read_test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-17T11:18:00.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RC4.h",
+              "DocumentMoniker": "D:\\Cryp Theory\\RC4_test\\RC4.h",
+              "RelativeDocumentMoniker": "RC4.h",
+              "ToolTip": "D:\\Cryp Theory\\RC4_test\\RC4.h",
+              "RelativeToolTip": "RC4.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-13T13:46:21.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RC4.c",
+              "DocumentMoniker": "D:\\Cryp Theory\\RC4_test\\RC4.c",
+              "RelativeDocumentMoniker": "RC4.c",
+              "ToolTip": "D:\\Cryp Theory\\RC4_test\\RC4.c",
+              "RelativeToolTip": "RC4.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-17T13:14:02.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RC4_encrypt_main.c",
+              "DocumentMoniker": "D:\\Cryp Theory\\RC4_test\\RC4_encrypt_main.c",
+              "RelativeDocumentMoniker": "RC4_encrypt_main.c",
+              "ToolTip": "D:\\Cryp Theory\\RC4_test\\RC4_encrypt_main.c",
+              "RelativeToolTip": "RC4_encrypt_main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-13T12:34:37.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
